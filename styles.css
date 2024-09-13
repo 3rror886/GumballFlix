@@ -1,0 +1,8 @@
+body{
+    background: rgb(50, 154, 252);
+    color: blue;
+}
+
+header{
+    border-bottom: solid 2px blueviolet;
+}
